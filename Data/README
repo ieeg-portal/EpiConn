@@ -8,5 +8,7 @@ See paper for further details.
 and are consistent with the electrode names used on the IEEG portal.
 
 3) Frequency-dependent FC networks for each seizure event clip (preictal + ictal periods). 
-These files are large and therefore seizures are provided for an example subject (HUP105) . More are available upon request, please contact the author.
-These files can also be easily generated on a new dataset using the Echobase pipeline developed by Khambhati et al. (https://github.com/akhambhati/Echobase)
+These files are large and therefore seizures are provided for an example subject (HUP105). You can explore the .npz file to better
+understand the file structure. These files can also be easily generated on datasets from the IEEG portal or your own dataset using the Echobase pipeline developed by Khambhati et al. (https://github.com/akhambhati/Echobase)
+
+All data is available upon request - please contact the author.
